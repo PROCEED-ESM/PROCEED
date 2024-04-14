@@ -31,16 +31,16 @@ jobs:
       - name: Install SSH Client
         uses: webfactory/ssh-agent@v0.4.1
         with:
-          ssh-private-key: ${{ secrets.PRODUCTION_WEB_PAGE_DEPLOY }}
+          ssh-private-key: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
           
       - name: deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB-TOKEN: ${{ secrets.PRODUCTION_WEB_PAGE_DEPLOY }}
+          GITHUB-TOKEN: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
           BRANCH: gh-pages
           FOLDER: _build/html # The folder the action should deploy.
           CLEAN: false # Automatically remove deleted files from the deploy branch
           REPOSITORY-NAME: PROCEED-ESM/PROCEED-ESM.github.io
-          ACCESS-TOKEN: ${{ secrets.PRODUCTION_WEB_PAGE_DEPLOY }}
+          ACCESS-TOKEN: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
           TARGET-FOLDER: docs
      
