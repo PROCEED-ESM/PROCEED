@@ -1,7 +1,5 @@
-PROCEED
-=======
-*PPE Regression Optimization Center for ESM Evaluation and Development*
------------------------------------------------------------------------
+PPE Regression Optimization Center for ESM Evaluation and Development (**PROCEED**)
+-----------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
