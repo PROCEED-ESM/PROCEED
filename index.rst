@@ -26,8 +26,7 @@ Meetings
 
 Here, you'll find information about past and upcoming meetings, including time, date, attendees, next meeting schedule, and meeting notes.
 
-:doc:`Meetings <meetings/meetings>`
-
+:doc:`Meetings <meetings/index>`
 
 Support  
 -------
