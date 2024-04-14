@@ -1,12 +1,8 @@
 Meetings
 ========
 
-Upcoming
---------
+*Upcoming*
+   :doc:`[TBD] May XX, 2024 <2024_05_17.rst>`  
 
-:doc:`2024_04_10`
-
-Past
-----
-
-:doc:`2024_04_10`
+*Past*
+   :doc:`April 10, 2024 <2024_04_10.rst>`
