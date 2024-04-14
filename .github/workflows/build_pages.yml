@@ -36,11 +36,10 @@ jobs:
       - name: deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB-TOKEN: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
+          token: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
           BRANCH: gh-pages
           FOLDER: _build/html # The folder the action should deploy.
           CLEAN: false # Automatically remove deleted files from the deploy branch
           REPOSITORY-NAME: PROCEED-ESM/PROCEED-ESM.github.io
-          ACCESS-TOKEN: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
           TARGET-FOLDER: docs
      
