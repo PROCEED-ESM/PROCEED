@@ -36,7 +36,7 @@ jobs:
       - name: deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
+          ssh-key: ${{ secrets.ACTION_DEPLOYMENT_KEY }}
           BRANCH: gh-pages
           FOLDER: _build/html # The folder the action should deploy.
           CLEAN: false # Automatically remove deleted files from the deploy branch
