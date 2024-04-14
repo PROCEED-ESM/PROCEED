@@ -34,6 +34,6 @@ jobs:
           BRANCH: gh-pages
           FOLDER: _build/html # The folder the action should deploy.
           CLEAN: false # Automatically remove deleted files from the deploy branch
-          REPOSITORY_NAME: PROCEED-ESM/PROCEED-ESM.github.io
+          REPOSITORY-NAME: PROCEED-ESM/PROCEED-ESM.github.io
           TARGET-FOLDER: docs
      
