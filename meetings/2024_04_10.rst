@@ -22,9 +22,12 @@
    - *Daniel*: Set up next meeting in ~ 1 month
 
 **Calendar Items**
-   - **[April 19]**: August Mikkelsen MS defense using ARM ENA data to constrain aerosol-cloud adjustments in the CAM6 PPE (informational)
-   - **[April 24]**: E3SM webinar: Daniel will present what PROCEED is about and highlight early work by Jacqueline and Andrew getting the PPE running (fingers crossed with a pre-alpha PPE) 
-      - Some previous webinars: https://e3sm.org/about/events/all-hands-presentations/
-   - **[May 7-10]**: Andrew and Jacqueline at NERSC for the E3SM workshop
+   - [**April 19**]: August Mikkelsen MS defense using ARM ENA data to constrain aerosol-cloud adjustments in the CAM6 PPE (informational)
+   - [**April 24**]: E3SM webinar
+     - Daniel will present what PROCEED is about
+     - highlight early work by Jacqueline and Andrew getting the PPE running (fingers crossed with a pre-alpha PPE) 
+     - Some previous webinars: https://e3sm.org/about/events/all-hands-presentations/
+   - [**May 7-10**]: Andrew and Jacqueline at NERSC for the E3SM workshop
+     - NERSC @ Berkeley, CA
 
 **Next Meeting:** TBD
