@@ -28,7 +28,7 @@ About
 
 News
 ----
-
-[July 31, 2023] `Press Release <https://www.uwyo.edu/news/2023/07/uws-mccoy-receives-1m-doe-grant-to-study-global-environment.html>`_ "UW’s McCoy Receives $1M DOE Grant to Study Global Environment".  
-
+ 
 [April 25, 2024] `E3SM Webinar <https://acme-climate.atlassian.net/wiki/spaces/ECM/pages/4266459137/2024-04-25+All-Hands+Presentation+Meeting+Notes>`_ Director McCoy presented to 60 participants for the E3SM All-Hands Presentation Series on PROCEED!
+
+[July 31, 2023] `Press Release <https://www.uwyo.edu/news/2023/07/uws-mccoy-receives-1m-doe-grant-to-study-global-environment.html>`_ "UW’s McCoy Receives $1M DOE Grant to Study Global Environment". 
