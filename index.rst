@@ -28,6 +28,7 @@ About
 
 News
 ----
+[October 3, 2024] Version 0 of the software to make the PPE has been tagged on `GitHub <https://github.com/PROCEED-ESM/PROCEED-PPE>`_ and published with `Zenodo <https://doi.org/10.5281/zenodo.13887194>`_!
  
 [April 25, 2024] `E3SM Webinar <https://acme-climate.atlassian.net/wiki/spaces/ECM/pages/4266459137/2024-04-25+All-Hands+Presentation+Meeting+Notes>`_ Director McCoy presented to 60 participants for the `E3SM All-Hands Presentation Series <https://e3sm.org/about/events/all-hands-presentations/>`_ on PROCEED!
 
