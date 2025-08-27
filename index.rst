@@ -20,7 +20,7 @@ About
 :doc:`Funding <about/funding>`
     Learn about the Center's current and past funding.
 
-:doc:`Computational Resources <resources/index>`
+:doc:`Computational Resources <about/resources>`
     Learn about the Center's computational resources.
 
 :doc:`Meetings <meetings/index>`
