@@ -16,8 +16,7 @@ Nephele E3SMv3 PPE
 .. figure:: figures/arm_dnd_constraints.png
    :alt: ARM observational constraints on ∆Nd.
 
-   **ARM observational constraints on higher end of expert assessed ∆Nd.** Observational constraints of ΔNd using the multi-linear regression (MLR) for Nd and surface CCN at supersaturation 0.1% as well as a simple regression using just Nd for each of the sites. Each bar represents the 90% confidence interval. Figure from <a class="reference external" href="https://doi.org/10.22541/essoar.175087280.06595777/v1">Jones et al. (2025)</a>.
-Figure from `Jones et al. (2025) <https://doi.org/10.22541/essoar.175087280.06595777/v1>`_.
+   **ARM observational constraints on higher end of expert assessed ∆Nd.** Observational constraints of ΔNd using the multi-linear regression (MLR) for Nd and surface CCN at supersaturation 0.1% as well as a simple regression using just Nd for each of the sites. Each bar represents the 90% confidence interval. Figure from `Jones et al. (2025) <https://doi.org/10.22541/essoar.175087280.06595777/v1>`_.
 
 
 Hephaestus E3SMv3 PPE
