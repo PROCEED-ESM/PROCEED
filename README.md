@@ -26,6 +26,16 @@ PROCEED is currently supported by the Department of Energy Established Program t
 **Award Number**: DE-SC0024161  
 **Project Dates**: 09/01/2023 - 09/01/2027
 
+## Publications
+
+Aerenson, Travis, Daniel McCoy, Gregory Elsaesser, et al. “[Global Models Predict Clouds at the Wrong Time of Day: Does It Matter for Radiation and Climate?](https://doi.org/10.1126/sciadv.ady3236)” Science Advances 11, no. 50 (n.d.): eady3236.
+
+Nugent, J. M., H. Brown, A. Kirby, et al. “[Overview of the Nephele Perturbed Parameter Ensemble for Aerosol-Cloud Interactions in E3SMv3.](https://doi.org/10.1029/2025MS004989)” Journal of Advances in Modeling Earth Systems 18, no. 2 (2026): e2025MS004989.
+
+## PROCEED in the News!
+
+[UW Student Funded by DOE Grant](https://issuu.com/uwyo/docs/uwyo_magazine_winter_2026/27)
+
 ## Support  
 <img align="right" width="120" height="120" src="https://github.com/PROCEED-ESM/.github/assets/37650539/f1e21adf-8a4f-4142-8fc9-1e80563fe2f2">  
 
