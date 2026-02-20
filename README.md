@@ -4,7 +4,7 @@
 <img align="right" width="360" height="400" src="https://github.com/PROCEED-ESM/.github/assets/37650539/c3b1c394-4516-4d6a-b8cb-28f858b7612b">
 
 *PPE Regression Optimization Center for ESM Evaluation and Development*  
-http://PROCEED-ESM.github.io   
+[Documentation](http://PROCEED-ESM.github.io)   
 
 **Director**: Daniel McCoy, Ph.D.  
 Department of Atmospheric Sciences, University of Wyoming  
