@@ -24,7 +24,7 @@ Department of Atmospheric Sciences, University of Wyoming
 PROCEED is currently supported by the Department of Energy Established Program to Stimulate Competitive Research (DOE EPSCoR) Implementation Grants program in the Program Office of Biological & Environmental Research.  
 
 **Award Number**: DE-SC0024161  
-**Project Dates**: 09/01/2023 - 08/31/2025  
+**Project Dates**: 09/01/2023 - 09/01/2027
 
 ## Support  
 <img align="right" width="120" height="120" src="https://github.com/PROCEED-ESM/.github/assets/37650539/f1e21adf-8a4f-4142-8fc9-1e80563fe2f2">  
