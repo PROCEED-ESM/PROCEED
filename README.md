@@ -36,6 +36,7 @@ Nugent, J. M., H. Brown, A. Kirby, et al. “[Overview of the Nephele Perturbed 
 
 [UW Student Funded by DOE Grant](https://issuu.com/uwyo/docs/uwyo_magazine_winter_2026/27)
 
+## [Usage Policy](https://github.com/PROCEED-ESM/PROCEED/blob/main/images/USAGE%20POLICY.pdf)
 ## Support  
 <img align="right" width="120" height="120" src="https://github.com/PROCEED-ESM/.github/assets/37650539/f1e21adf-8a4f-4142-8fc9-1e80563fe2f2">  
 
