@@ -35,6 +35,7 @@ Nugent, J. M., H. Brown, A. Kirby, et al. “[Overview of the Nephele Perturbed 
 ## PROCEED in the News!
 
 [UW Student Funded by DOE Grant](https://issuu.com/uwyo/docs/uwyo_magazine_winter_2026/27)
+[Nephele Perturbed Process Ensemble (E3SMv3) Available for Community Use](https://e3sm.org/nephele-perturbed-process-ensemble-e3smv3-available-for-community-use/)
 
 ## [Usage Policy](https://github.com/PROCEED-ESM/PROCEED/blob/main/images/USAGE%20POLICY.pdf)
 ## Support  
